@@ -6,6 +6,23 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
+- Deadline 11: Periode-opdracht 2
+	- Maak http://pascalculator.be/hackernews/public/ na door gebruik te maken van een framework, bij voorkeur Laravel
+	- Instructies hoe je dit moet doen staan beschreven op de site zelf
+	- gebaseerd op http://news.ycombinator.com
+	- Plaats de oplossing in je eigen oplossingen-map en upload deze naar je oplossingen repo
+	- Deadline: Donderdag 26/01/2017 
+
+- Deadline 10: Frameworks
+	- Deadline: voor de les van donderdag 14 januari 2016
+	- Opdracht: Werk minstens één tutorial af van een framework naar keuze (Laravel, CodeIgniter)
+		- [Laracast tutorial](https://laracasts.com/series/laravel-5-fundamentals)
+		- [Officiële laravel tutorial (beginner + intermediate)](https://laravel.com/docs/5.2/quickstart)
+		- [CodeIgniter tutorial](http://www.codeigniter.com/user_guide/)
+	- Vergeet niet een commit van je opdrachten te doen
+	- Dit is de perfecte voorbereiding voor je periode-opdracht
+	- Zorg ervoor dat je de tutorials door en door begrijpt, daar gaan we volgende les mee aan de slag!
+
 - Deadline 09: mod_rewrite & Single Point of Entry
 	- Deadline: voor de les van donderdag 22 december 2016
 	- Opdracht: Opdrachten op mod_rewrite & Single Point of Entry
