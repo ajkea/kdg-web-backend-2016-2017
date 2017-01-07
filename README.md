@@ -11,7 +11,8 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 	- Instructies hoe je dit moet doen staan beschreven op de site zelf
 	- gebaseerd op http://news.ycombinator.com
 	- Plaats de oplossing in je eigen oplossingen-map en upload deze naar je oplossingen repo
-	- Deadline: Donderdag 26/01/2017 
+	- Deadline: Donderdag 26/01/2017
+	- Het online feedback moment gaat door op zondag 8/01/2017 om 21u (op hangouts https://hangouts.google.com/group/5H6RfsT5ON17BoK12)
 
 - Deadline 10: Frameworks
 	- Deadline: voor de les van donderdag 14 januari 2016
