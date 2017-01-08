@@ -11,6 +11,7 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 	- Instructies hoe je dit moet doen staan beschreven op de site zelf
 	- gebaseerd op http://news.ycombinator.com
 	- Plaats de oplossing in je eigen oplossingen-map en upload deze naar je oplossingen repo
+	- Probeer ook de applicatie online te zetten (en deel de URL naar waar de applicatie te vinden valt)
 	- Deadline: Donderdag 26/01/2017
 	- Het online feedback moment gaat door op zondag 8/01/2017 om 21u (op hangouts https://hangouts.google.com/group/5H6RfsT5ON17BoK12)
 
@@ -22,7 +23,6 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 		- [CodeIgniter tutorial](http://www.codeigniter.com/user_guide/)
 	- Vergeet niet een commit van je opdrachten te doen
 	- Dit is de perfecte voorbereiding voor je periode-opdracht
-	- Zorg ervoor dat je de tutorials door en door begrijpt, daar gaan we volgende les mee aan de slag!
 
 - Deadline 09: mod_rewrite & Single Point of Entry
 	- Deadline: voor de les van donderdag 22 december 2016
